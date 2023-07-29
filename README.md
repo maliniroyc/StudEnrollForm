@@ -20,3 +20,12 @@ Benefits of using JsonPowerDB : Simplest way to retrieve data in a JSON format. 
 Additional you can have: JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
 Table of contents: Roll-No Student Full Name Class Birth-Date Address Enrollment-Date SAVE - INSERT CHANGE - UPDATE DELETE RESET
+Scope of functionalities :
+
+Examples of use : can be used foe various other platforms like Online Examination Registration , Job Application , profile creation , and many more other uses .
+
+Project status : Done
+
+Sources :Introduction to JsonPowerDB - V2.0 https://careers.login2explore.com/course/view.php?id=14
+
+Other information Sources : https://login2explore.com/jpdb/docs.html
